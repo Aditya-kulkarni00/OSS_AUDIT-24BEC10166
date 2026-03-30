@@ -1,11 +1,11 @@
 #!/bin/bash
 
 # Script 1: System Identity Report
-# Author: Dhruv Chandwani
+# Author: Aditya Kulkarni
 # Course: Open Source Software
 
 # Variables
-STUDENT_NAME="Dhruv Chandwani"
+STUDENT_NAME="Aditya Kulkarni"
 SOFTWARE_CHOICE="Python"
 
 # System information
@@ -17,7 +17,7 @@ DISTRO=$(lsb_release -d | cut -f2)
 
 # Output
 echo "======================================"
-echo " Open Source Audit - $STUDENT_NAME"
+echo " Open Source Audit - $Aditya Kulkarni"
 echo "======================================"
 
 echo "Chosen Software : $SOFTWARE_CHOICE"
